@@ -9,9 +9,10 @@ int main() {
         for (int j= 2; j<=i ; j++)
         {
             if(j==i){
-                sum+=i;
-                count++,
-            }else if (i%j==0)
+                     sum+=i;
+                     count++,
+                    }
+                    else if (i%j==0)
             {
                 break;
             }
